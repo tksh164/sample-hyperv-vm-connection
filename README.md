@@ -1,1 +1,1 @@
-# VMConnectionSample
+# Hyper-V VM screen connection sample
